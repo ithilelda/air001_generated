@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "air001_pac"
+name = "air001-generated"
 version = "1.1.2"
 dependencies = [
  "cortex-m",

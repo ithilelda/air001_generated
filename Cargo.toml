@@ -1,10 +1,10 @@
 [package]
-name = "air001_pac"
+name = "air001-generated"
 version = "1.1.2"
 edition = "2024"
-description = "PAC for Air001 microcontroller"
+description = "Generated PAC for Air001 microcontroller"
 readme = "README.md"
-repository = "https://github.com/ithilelda/air001_pac"
+repository = "https://github.com/ithilelda/air001_generated"
 license = "MIT"
 keywords = ["embedded", "air001"]
 categories = ["no-std", "embedded", "hardware-support"]
